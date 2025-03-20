@@ -3,7 +3,7 @@
 ### NAME:HARIKRISHNAN.R
 ### REG NO:212224230080
 ## AIM:
-To develop a simple webserver to serve html pages and display the list of protocols in TCP/IP Protocol Suite.
+To develop a simple webserver to serve html pages and display the list of protocols in simple personal website
 
 ## DESIGN STEPS:
 ### Step 1: 
